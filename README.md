@@ -8,22 +8,25 @@ Beginner-friendly AI Automation project built using Python.
 
 ## Project Structure
 email_auto_reply_bot/
-├── main.py
-├── keyword_rules.py
-├── reply_templates.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+     ├── main.py
+     ├── keyword_rules.py
+     ├── reply_templates.py
+     ├── requirements.txt
+     ├── .gitignore
+     └── README.md
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/BHNKCG/email_auto_reply_bot.git
+
+       git clone https://github.com/BHNKCG/email_auto_reply_bot.git
 
 2. Go to the project folder:
-cd email_auto_reply_bot
+
+       cd email_auto_reply_bot
 
 3. Run the bot:
-python main.py
+
+       python main.py
 
 
 ## Next Steps
