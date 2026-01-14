@@ -55,7 +55,8 @@ email_auto_reply_bot/
 (DO NOT upload this .json file to GitHub)
 
 5. Run the bot:
-python main.py
+
+       python main.py
 - Browser will open for Google login (first run only)
 - Allow access
 - token.json will be generated automatically
