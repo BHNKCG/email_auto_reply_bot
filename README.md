@@ -29,7 +29,7 @@ email_auto_reply_bot/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## How to Run
 1. Clone the repository:
 
@@ -40,16 +40,18 @@ email_auto_reply_bot/
        cd email_auto_reply_bot
 
 3. Install Dependencies
-pip install -r requirements.txt
 
-4. Enable Gmail API & Get Credentials
+       pip install -r requirements.txt
+
+5. Enable Gmail API & Get Credentials
 - Go to Google Cloud Console
 - Create a new project
 - Enable Gmail API
 - Configure OAuth Consent Screen (External → Testing)
 - Create OAuth Client ID (Desktop App)
 - Download the credentials file and rename it:
-     credentials.json
+
+      credentials.json
 (DO NOT upload this .json file to GitHub)
 
 5. Run the bot:
