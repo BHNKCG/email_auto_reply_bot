@@ -7,6 +7,7 @@ Beginner-friendly AI Automation project built using Python.
 - Clean and modular Python structure
 
 ## Project Structure
+```
 email_auto_reply_bot/
      ├── main.py
      ├── keyword_rules.py
@@ -14,7 +15,7 @@ email_auto_reply_bot/
      ├── requirements.txt
      ├── .gitignore
      └── README.md
-
+```
 ## How to Run
 1. Clone the repository:
 
