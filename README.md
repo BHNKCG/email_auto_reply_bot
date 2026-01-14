@@ -17,6 +17,7 @@ A python-based Gmail API automation system. It is a bot that automatically reads
 - Git & GitHub
 
 ## Project Structure
+<<<<<<< HEAD
 ```
 email_auto_reply_bot/
 ├── main.py
@@ -28,13 +29,25 @@ email_auto_reply_bot/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+=======
+```text
+email_auto_reply_bot/
+     ├── main.py
+     ├── keyword_rules.py
+     ├── reply_templates.py
+     ├── requirements.txt
+     ├── .gitignore
+     └── README.md
+>>>>>>> 12dcdc6942bc5ef16776b5846bf4286139919aa5
 ```
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/BHNKCG/email_auto_reply_bot.git
+
+       git clone https://github.com/BHNKCG/email_auto_reply_bot.git
 
 2. Go to the project folder:
-cd email_auto_reply_bot
+
+       cd email_auto_reply_bot
 
 3. Install Dependencies
 pip install -r requirements.txt
