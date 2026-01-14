@@ -54,7 +54,7 @@ email_auto_reply_bot/
 - Download the credentials file and rename it:
 
       credentials.json
-(DO NOT upload this .json file to GitHub)
+  (DO NOT upload this .json file to GitHub)
 - Save file on the email_auto_reply_bot folder
 
 5. Run the bot:
