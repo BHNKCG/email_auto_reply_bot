@@ -45,13 +45,12 @@ email_auto_reply_bot/
 
 5. Enable Gmail API & Get Credentials
 - Go to Google Cloud Console
-- Create a new project
+- Create a New Google Cloud Project
 - Enable Gmail API
-- Configure OAuth Consent Screen (External → Testing)
-- Create OAuth Client ID (Desktop App)
-- Go to Google Auth Platform → Audience
-     - Publishing status: Testing
-     - Your Gmail added under Test users
+- Configure OAuth Consent Screen (Select External)
+- Set App to Testing
+- Add Test User (Your Gmail added under Test users)
+- Create OAuth Client ID (Application type: Desktop app)
 - Download the credentials file and rename it:
 
       credentials.json
