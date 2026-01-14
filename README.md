@@ -49,10 +49,14 @@ email_auto_reply_bot/
 - Enable Gmail API
 - Configure OAuth Consent Screen (External → Testing)
 - Create OAuth Client ID (Desktop App)
+- Go to Google Auth Platform → Audience
+     - Publishing status: Testing
+     - Your Gmail added under Test users
 - Download the credentials file and rename it:
 
       credentials.json
 (DO NOT upload this .json file to GitHub)
+- Save file on the email_auto_reply_bot folder
 
 5. Run the bot:
 
